@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Webdevelopment**
 
-- 🌱 I’m currently learning **Javascript,React**
+- 🌱 I’m currently in my final year of  **Btech**
 
 - 👯 I’m looking to collaborate on **Creating an impact over student community**
 
