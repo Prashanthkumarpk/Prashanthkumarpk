@@ -39,7 +39,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=prashanthkumarpk&show_icons=true&locale=en" alt="prashanthkumarpk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=prashanthkumarpk&" alt="prashanthkumarpk" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashanthkumarpk&" alt="prashanthkumarpk" /></p>
 
 <!---
 Prashanthkumarpk/Prashanthkumarpk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
